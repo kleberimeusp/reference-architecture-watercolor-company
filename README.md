@@ -7,11 +7,11 @@ O ICA Bank oferece soluções financeiras completas, integrando produtos inovado
 
 # 🚀 **Produtos do ICA Bank**
 
-- ✅ **ICA PAY** - Plataforma de pagamentos e cashback
-- ✅ **ICA INVEST** - Investimentos P2P em MPEs brasileiras
-- ✅ **ICA CRED** - Crédito rápido e descomplicado para pessoa física
-- ✅ **ICA CARD** - Cartão de crédito com benefícios e descontos
-- ✅ **Benefícios Adicionais**:
+✅ **ICA PAY** - Plataforma de pagamentos e cashback  
+✅ **ICA INVEST** - Investimentos P2P em MPEs brasileiras  
+✅ **ICA CRED** - Crédito rápido e descomplicado para pessoa física  
+✅ **ICA CARD** - Cartão de crédito com benefícios e descontos  
+✅ **Benefícios Adicionais**:
 - ICA Mais Saúde (Descontos em saúde)
 - ICA Telemedicina (Atendimento remoto)
 - Seguro de Vida, Auxílios, Plano Odontológico, WinCupom, Auxílio Pet
