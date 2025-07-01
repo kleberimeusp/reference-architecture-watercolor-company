@@ -73,11 +73,8 @@ Cartão de crédito que oferece vantagens exclusivas.
 ## 🚀 Por que escolher o ICA Bank?
 
 ✅ Soluções integradas para saúde, crédito e investimentos
-
 ✅ Benefícios que simplificam sua vida financeira
-
-✅ Incentivo ao comércio local e economia brasileira
-  
+✅ Incentivo ao comércio local e economia brasileira  
 ✅ Cashback, descontos e serviços de alta qualidade  
 
 ---
