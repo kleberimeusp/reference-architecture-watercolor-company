@@ -51,6 +51,9 @@ Para gerenciar diversos produtos ICA Bank em sinergia:
 # 🏆 **Motivos para esse Dimensionamento**
 
 ✅ Evita sobrecarga e gargalos em entregas ágeis
+
 ✅ Cobertura completa de competências (técnicas, produto e suporte)
+
 ✅ Time pequeno o suficiente para agilidade, grande o suficiente para autonomia
+
 ✅ Alinhado às práticas de times Spotify, Squads e Chapter/Tribe
