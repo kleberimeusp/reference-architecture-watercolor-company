@@ -10,8 +10,11 @@
 **Notas:**
 
 * Daily obrigatória para todos os tipos de Sprint (15 min).
+
 * Reviews públicas sempre ao final das Sprints de Produto e Benefícios Extras.
+
 * Retrospectivas ao final de cada Sprint Técnica e de Produto.
+
 * Kanban ativo e integrado durante todos os ciclos.
 
 ---
@@ -44,11 +47,15 @@
 
 # 🌟 **Boas Práticas Complementares - Períodos e Normas das Sprints**
 
-✔️ Respeitar os períodos definidos para cada tipo de Sprint:
-Técnica (1 semana) | Produto (2 semanas) | Benefícios Extras (3 semanas) | Inovação Labs (4 semanas).
+✔️ Respeitar os períodos definidos para cada tipo de Sprint: Técnica (1 semana) | Produto (2 semanas) | Benefícios Extras (3 semanas) | Inovação Labs (4 semanas).
 
 ✔️ Manter Daily obrigatória em todos os Sprints, com duração de 15 minutos.
+
 ✔️ Realizar Reviews públicas ao final das Sprints de Produto e Benefícios Extras.
+
 ✔️ Conduzir Retrospectivas ao final das Sprints Técnicas e de Produto.
+
 ✔️ Garantir Kanban ativo e atualizado durante todos os ciclos.
+
 ✔️ Sincronizar os períodos das Sprints com as metas e OKRs do Squad, assegurando foco e cadência de entregas.
+
