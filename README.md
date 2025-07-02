@@ -44,14 +44,14 @@ Embora ainda não exista uma lista pública e oficial completa divulgada pela fi
 
 # 🌐 **Expansão e Meta Nacional**
 
-✔️ Presente em mais de **40 cidades brasileiras**
-✔️ Meta: atingir **10% dos municípios do Brasil** (∼550 cidades)
-✔️ Objetivo de abrir unidades físicas em até **120 municípios**, priorizando:
+✔️ Presente em mais de **40 cidades brasileiras**  
+✔️ Meta: atingir **10% dos municípios do Brasil** (∼550 cidades)  
+✔️ Objetivo de abrir unidades físicas em até **120 municípios**, priorizando:  
 
-* Parcerias com seguradoras
-* Ofertas de benefícios de saúde e qualidade de vida
-* Incentivo ao comércio local
-* Fortalecimento da economia dos servidores públicos
+* Parcerias com seguradoras  
+* Ofertas de benefícios de saúde e qualidade de vida  
+* Incentivo ao comércio local  
+* Fortalecimento da economia dos servidores públicos  
 
 ---
 
