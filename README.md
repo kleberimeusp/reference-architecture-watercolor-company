@@ -155,7 +155,7 @@ O ICA Bank posiciona-se como um ecossistema financeiro inovador que:
 ✔️ Alavanca a economia local e o bem-estar dos usuários  
 ✔️ Atua com metas agressivas de expansão municipal e nacional  
 ✔️ Sustenta o crescimento com Tribes de Excelência, Governança e Inovação  
-s
+
 **Vamos juntos transformar o mercado financeiro com agilidade, excelência e impacto social!** 🚀
 
 ---
