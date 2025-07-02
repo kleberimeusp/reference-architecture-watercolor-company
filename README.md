@@ -59,9 +59,9 @@ Embora ainda não exista uma lista pública e oficial completa divulgada pela fi
 
 Para informações atualizadas sobre as cidades e serviços disponíveis:
 
-✅ Site oficial: [https://icabank.com.br](https://icabank.com.br)
-✅ Canais de atendimento e suporte do ICA Bank
-✅ Consulta à prefeitura local sobre parcerias vigentes
+✅ Site oficial: [https://icabank.com.br](https://icabank.com.br)  
+✅ Canais de atendimento e suporte do ICA Bank  
+✅ Consulta à prefeitura local sobre parcerias vigentes  
 
 ---
 
@@ -150,12 +150,12 @@ Para informações atualizadas sobre as cidades e serviços disponíveis:
 
 O ICA Bank posiciona-se como um ecossistema financeiro inovador que:
 
-✔️ Escala produtos com segurança e foco na experiência do cliente
-✔️ Garante autonomia dos times e squads
-✔️ Alavanca a economia local e o bem-estar dos usuários
-✔️ Atua com metas agressivas de expansão municipal e nacional
-✔️ Sustenta o crescimento com Tribes de Excelência, Governança e Inovação
-
+✔️ Escala produtos com segurança e foco na experiência do cliente  
+✔️ Garante autonomia dos times e squads  
+✔️ Alavanca a economia local e o bem-estar dos usuários  
+✔️ Atua com metas agressivas de expansão municipal e nacional  
+✔️ Sustenta o crescimento com Tribes de Excelência, Governança e Inovação  
+s
 **Vamos juntos transformar o mercado financeiro com agilidade, excelência e impacto social!** 🚀
 
 ---
