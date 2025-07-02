@@ -1,8 +1,3 @@
-✅ **Tabela ideal de processos por sprint**
-✅ **Períodos de sprint alinhados à cultura ágil e Kanban**
-
----
-
 # 🗓️ **Períodos e Ritmo de Sprints no ICA Bank**
 
 | Tipo de Sprint                  | Duração Ideal | Foco Principal                                          |
@@ -12,30 +7,21 @@
 | **Sprint de Benefícios Extras** | 3 semanas     | Integração de novos parceiros e ajustes de ecossistema  |
 | **Sprint de Inovação (Labs)**   | 4 semanas     | POCs, experimentação de IA, Blockchain, Open Finance    |
 
-**Notas:**
+---
 
-* Daily obrigatória para todos os tipos de Sprint (15 min)
-* Reviews públicas sempre ao final da Sprint de Produto e Benefícios
-* Retrospectivas ao final de cada Sprint técnica e de produto
-* Kanban ativo e integrado durante todos os ciclos
+## ✅ **Normas e Estrutura das Sprints**
+
+✔️ Respeitar os períodos ideais de cada tipo de Sprint, conforme tabela acima.
+✔️ Daily obrigatória em todos os Sprints (15 min), com foco em alinhamento e remoção de impedimentos.
+✔️ Reviews públicas ao final das Sprints de Produto e Benefícios Extras.
+✔️ Retrospectivas ao final de cada Sprint Técnica e de Produto, priorizando melhoria contínua.
+✔️ Kanban ativo, atualizado e acessível durante todo o ciclo da Sprint.
+✔️ Planejamento inicial da Sprint com metas claras e alinhadas aos OKRs do Squad.
+✔️ Flexibilidade para ajustes apenas em casos de incidentes críticos ou mudanças validadas pelo Time e PO.
 
 ---
 
-# 📊 **Tabela Ideal - Processo Ágil por Sprint**
-
-| Etapa                          | Responsável         | Frequência                              | Observação                               |
-| ------------------------------ | ------------------- | --------------------------------------- | ---------------------------------------- |
-| **Planejamento da Sprint**     | PO + Time + SM      | Início de cada Sprint                   | Revisão do backlog, definição de metas   |
-| **Daily Meeting**              | Time completo       | Diária (15 min)                         | Alinhamento rápido, remoção de bloqueios |
-| **Refinamento de Backlog**     | PO + Time Técnico   | 1x por semana (mínimo)                  | Grooming de requisitos e estimativas     |
-| **Review (Demonstração)**      | Time + Stakeholders | Fim de cada Sprint (Produto/Benefícios) | Validação de entregas e incrementos      |
-| **Retrospectiva**              | Time completo       | Fim de cada Sprint                      | Aprendizados e planos de melhoria        |
-| **Monitoramento de Métricas**  | Chapter Leads + PO  | Contínuo, via Dashboards                | Lead Time, Cycle Time, NPS, estabilidade |
-| **Deploy Contínuo / Entregas** | Time Técnico        | Conforme pronto (Kanban → Done)         | CI/CD ativo, entregas frequentes         |
-
----
-
-# ⏩ **Sugestão de Ciclos para Produtos ICA Bank**
+## 🔹 **Ritmo Recomendado por Produto ICA Bank**
 
 | Produto               | Tipo de Sprint     | Duração Ideal                     | Particularidades                                 |
 | --------------------- | ------------------ | --------------------------------- | ------------------------------------------------ |
@@ -45,11 +31,19 @@
 | **ICA CARD**          | Produto + Técnico  | 2 semanas + 1 semana              | Integração com parceiros, segurança e app mobile |
 | **Benefícios Extras** | Benefícios         | 3 semanas                         | Expansão de rede, novas integrações              |
 
+**Normas Específicas por Produto:**
+
+* ICA PAY exige cadência de entregas equilibrada entre evolução e estabilidade, respeitando o ritmo 2+1 semanas.
+* ICA INVEST deve alternar ciclos regulares com Sprints de Inovação focadas em POCs e novas tecnologias.
+* ICA CRED prioriza sprints consistentes de 2 semanas com foco em automação contínua.
+* ICA CARD requer ritmo combinado de Produto e Técnico, garantindo segurança e integração de parceiros.
+* Benefícios Extras seguem ciclos de 3 semanas orientados à expansão do ecossistema e integrações.
+
 ---
 
-# 🎯 **Boas Práticas Complementares**
+## 🛠️ **Boas Práticas de Evolução Contínua**
 
-✔️ Início de cada ciclo com validação de métricas anteriores
-✔️ Integração contínua com o Kanban Visual do ICA Bank
-✔️ Flexibilidade para ajustes de Sprint em contexto de incidentes críticos
-✔️ Times orientados a OKRs e metas claras por Squad
+✔️ Promover o desenvolvimento técnico e de negócio dos times com mentorias internas e externas.
+✔️ Incentivar a participação em trilhas de formação, cursos online e capacitações práticas durante os ciclos de Sprint.
+✔️ Alinhar a evolução das competências às necessidades estratégicas dos produtos e à maturidade dos Squads.
+✔️ Garantir espaço para compartilhamento de conhecimentos adquiridos ao final das Sprints, reforçando a cultura de melhoria contínua.
