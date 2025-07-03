@@ -4,7 +4,6 @@
 
 Definir regras mínimas para entrega e aprovação de PRs durante o Sprint, garantindo alinhamento, qualidade técnica e fluidez no fluxo de desenvolvimento.
 
----
 
 ## ✅ **Regra Básica para Entrega de PR no Sprint**
 
@@ -17,7 +16,6 @@ Definir regras mínimas para entrega e aprovação de PRs durante o Sprint, gara
 | **Checklist de Qualidade no PR** | Itens validados antes da submissão                         |
 | **Commits Limpos e Squash**      | Histórico do PR deve ser consolidado (linear)              |
 
----
 
 ## 📦 **Checklist Rápido Antes de Criar o PR**
 
