@@ -95,3 +95,30 @@ Padronizar e monitorar as entregas do time para sprints, meses, trimestres, seme
 Essas normas são vivas e devem ser revisadas trimestralmente com o time. Sugestões de melhoria são bem-vindas!
 
 ---
+
+# 📈 **C4 Model - ICA Bank Arquitetura de Métricas - Cenário 01**
+
+## C1 Context Key
+
+![C1 Contexto Key](/delivery-metrics-between-sprints/img/structurizr-C1_Contexto-key.png)
+
+## C1 Contexto Completo
+
+![C1 Contexto](/delivery-metrics-between-sprints/img/structurizr-C1_Contexto.png)
+
+## C2 Containers Key
+
+![C2 Containers Key](/delivery-metrics-between-sprints/img/structurizr-C2_Containers-key.png)
+
+## C2 Contexto Completo
+
+![C1 Contexto](/delivery-metrics-between-sprints/img/structurizr-C2_Containers.png)
+
+## C3 Componentes Key
+
+![C3 Componentes ICA Card Key](/delivery-metrics-between-sprints/img/structurizr-C3_Componentes_API-key.png)
+
+## C3 Componentes Completo
+
+![C3 Componentes ICA Card](/delivery-metrics-between-sprints/img/structurizr-C3_Componentes_API.png)
+
